@@ -3,8 +3,8 @@
 # Sections
 
 - [Technologies Used](#technologies-used)
-- [Commands to run](#commands_to_run)
-- [Page Layouts](#page-layout)
+- [Commands to run](#commands-to-run)
+- [Page Layouts](#page-layouts)
 
 
 ## Technologies used
