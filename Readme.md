@@ -3,6 +3,7 @@
 # Sections
 
 - [Technologies Used](#technologies-used)
+- [Commands to run](#commands_to_run)
 - [Page Layouts](#page-layout)
 
 
@@ -12,6 +13,14 @@
 - We will be using python language.
 
 [Back to top](#building-website-with-python-and-flask)
+
+## Commands to run
+- pip install flask
+- pip install flask-login
+- pip install flask-alchemy
+
+[Back to top](#building-website-with-python-and-flask)
+
 ## Page Layouts
 - ![Login Page](./Images/LoginScreen.png)
 - ![SignUp Page](./Images/SignUpScreen.png)
