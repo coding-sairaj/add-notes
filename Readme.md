@@ -11,10 +11,10 @@
 - We are using jinja for building templates
 - We will be using python language.
 
-[Back to top](#learning-python)
+[Back to top](#building-website-with-python-and-flask)
 ## Page Layouts
 - ![Login Page](./Images/LoginScreen.png)
 - ![SignUp Page](./Images/SignUpScreen.png)
 - ![Home Page](./Images/HomeScreen.png)
 
-[Back to top](#learning-python)
+[Back to top](#building-website-with-python-and-flask)
