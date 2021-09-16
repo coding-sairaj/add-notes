@@ -17,7 +17,7 @@
 ## Commands to run
 - pip install flask
 - pip install flask-login
-- pip install flask-alchemy
+- pip install flask-sqlalchemy
 
 [Back to top](#building-website-with-python-and-flask)
 
